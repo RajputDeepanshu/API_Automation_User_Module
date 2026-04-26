@@ -1,0 +1,40 @@
+09:10:24.298 [main] INFO  test.UserTests - *********** Creating user *************
+09:10:29.609 [main] INFO  test.UserTests - *********** User is Created *************
+09:10:29.636 [main] INFO  test.UserTests - *********** Reading user info  *************
+09:10:30.985 [main] INFO  test.UserTests - *********** User info is displayed *************
+09:10:30.993 [main] INFO  test.UserTests - *********** Updating user *************
+09:10:33.482 [main] INFO  test.UserTests - *********** User is updated *************
+09:10:33.495 [main] INFO  test.UserTests - *********** Deleting user *************
+09:10:34.821 [main] INFO  test.UserTests - *********** User is deleted *************
+09:42:02.902 [main] INFO  test.UserTests2 - *********** Creating user *************
+09:42:07.289 [main] INFO  test.UserTests2 - *********** User is Created *************
+09:42:07.310 [main] INFO  test.UserTests2 - *********** Reading user info  *************
+09:42:08.655 [main] INFO  test.UserTests2 - *********** User info is displayed *************
+09:42:08.672 [main] INFO  test.UserTests2 - *********** Updating user *************
+09:42:11.207 [main] INFO  test.UserTests2 - *********** User is updated *************
+09:42:11.214 [main] INFO  test.UserTests2 - *********** Deleting user *************
+09:42:12.498 [main] INFO  test.UserTests2 - *********** User is deleted *************
+10:31:42.577 [main] INFO  test.UserTests2 - *********** Creating user *************
+10:31:46.053 [main] INFO  test.UserTests2 - *********** User is Created *************
+10:31:46.065 [main] INFO  test.UserTests2 - *********** Reading user info  *************
+10:31:47.381 [main] INFO  test.UserTests2 - *********** User info is displayed *************
+10:31:47.384 [main] INFO  test.UserTests2 - *********** Updating user *************
+10:31:49.949 [main] INFO  test.UserTests2 - *********** User is updated *************
+10:31:49.954 [main] INFO  test.UserTests2 - *********** Deleting user *************
+10:31:51.129 [main] INFO  test.UserTests2 - *********** User is deleted *************
+10:45:20.497 [main] INFO  test.UserTests2 - *********** Creating user *************
+10:45:23.953 [main] INFO  test.UserTests2 - *********** User is Created *************
+10:45:23.969 [main] INFO  test.UserTests2 - *********** Reading user info  *************
+10:45:25.309 [main] INFO  test.UserTests2 - *********** User info is displayed *************
+10:45:25.313 [main] INFO  test.UserTests2 - *********** Updating user *************
+10:45:27.801 [main] INFO  test.UserTests2 - *********** User is updated *************
+10:45:27.805 [main] INFO  test.UserTests2 - *********** Deleting user *************
+10:45:28.990 [main] INFO  test.UserTests2 - *********** User is deleted *************
+11:05:04.281 [main] INFO  test.UserTests2 - *********** Creating user *************
+11:05:08.261 [main] INFO  test.UserTests2 - *********** User is Created *************
+11:05:08.286 [main] INFO  test.UserTests2 - *********** Reading user info  *************
+11:05:09.453 [main] INFO  test.UserTests2 - *********** User info is displayed *************
+11:05:09.462 [main] INFO  test.UserTests2 - *********** Updating user *************
+11:05:11.716 [main] INFO  test.UserTests2 - *********** User is updated *************
+11:05:11.724 [main] INFO  test.UserTests2 - *********** Deleting user *************
+11:05:12.842 [main] INFO  test.UserTests2 - *********** User is deleted *************
